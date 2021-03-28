@@ -56,6 +56,7 @@ app.post("/v2/posts", (req, res) => {
 });
 
 //listen
+
 app.listen(port, () => {
-  console.log(`listening on https://localhost:${port}`);
-}); //listening for message
+  console.log(`Listening on http://localhost:${port}/v2/posts`);
+});
