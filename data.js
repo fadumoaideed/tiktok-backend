@@ -9,7 +9,7 @@ const data = [
     messages: "23",
     description: "I fell at the end",
     shares: "4",
-  },
+  }, 
   {
     url:
       "https://webapp-va.tiktok.com/ed91934c96d6722ae1938f3b665ef99b/605cbbf1/kmoat/tos-useast2a-ve-0068c001/e6afd544923d4aaaaeba723fe90fca8e?a=1988&br=1696&bt=848&cd=0%7C0%7C0&ch=0&cr=0&cs=0&dpk=PWWt1Ndlw0ObLd7GgR7dnvvUhfobUqjFSgEMGYQ%2FlfbdcyP3E1zZOPv6vn%2BS0YgzgMqWa%2FPV8i6Cx%2FYQLo%2F1zec8gzwIsGy5PbJ42g%3D%3D&dpm=cenc-aes-ctr&dr=0&ds=3&er=&l=202103251035020101902090952C0B9154&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=eyJ2bSI6MiwiY2siOiJ0dF93ZWJpZF92MiIsInVpZCI6IjY5MDM2NjAwNDE0ODQ3MTUwMTAifQ%3D%3D&qs=0&rc=amQ1aDxrZmg5NDMzNDczM0ApZjo6OTo4OGRnN2g1Zmk1aWc2Y2duam9vYWJgLS0xMTZzcy00L2EyNl8yYGBgXzU0NTY6Yw%3D%3D&vl=&vr=",
